@@ -1,0 +1,6 @@
+/home/tom/git/designPatterns/Factory/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/tom/git/designPatterns/Factory/bin/Debug/Factory.exe.config
+/home/tom/git/designPatterns/Factory/bin/Debug/Factory.pdb
+/home/tom/git/designPatterns/Factory/bin/Debug/Factory.exe
+/home/tom/git/designPatterns/Factory/obj/Debug/Factory.exe
+/home/tom/git/designPatterns/Factory/obj/Debug/Factory.pdb
