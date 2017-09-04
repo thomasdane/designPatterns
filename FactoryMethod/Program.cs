@@ -6,15 +6,15 @@ namespace FactoryMethod
 	{
 		public static void Main (string[] args)
 		{
-			var car = GetCar("ford", "red");
-			Console.WriteLine(string.Format("You ordered a {0} {1}", car.Colour, car.Type));
-		}
+			var fordFactory = new FordFactory ();
+			var ford = fordFactory.CreateCar("Red");
+			Console.WriteLine(string.Format("You ordered a {0} {1}", ford.Colour, ford.Type));
 
+			var toyotaFactory = new ToyotaFactory();
+			var toyota = toyotaFactory.CreateCar("Blue");
+			Console.WriteLine(string.Format("You ordered a {0} {1}", toyota.Colour, toyota.Type));
 
-		public static ICar GetCar(string type, string colour)
-		{
-			var factory = new CarFactory();
-			return factory.CreateCar (type, colour);
+		    Console.ReadKey();
 		}
 	}
 }

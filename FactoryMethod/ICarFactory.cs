@@ -4,7 +4,7 @@ namespace FactoryMethod
 {
 	public interface ICarFactory
 	{
-		ICar CreateCar(string type, string colour);
+		ICar CreateCar(string colour);
 	}
 }
 

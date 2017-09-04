@@ -35,9 +35,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ICarFactory.cs" />
     <Compile Include="ICar.cs" />
+    <Compile Include="FordFactory.cs" />
     <Compile Include="Ford.cs" />
+    <Compile Include="ToyotaFactory.cs" />
     <Compile Include="Toyota.cs" />
-    <Compile Include="CarFactory.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
