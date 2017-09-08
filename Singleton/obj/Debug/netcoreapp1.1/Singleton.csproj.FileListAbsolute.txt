@@ -1,13 +1,3 @@
-C:/dev/DesignPatterns/Singleton/bin/Debug/netcoreapp1.1/Singleton.deps.json
-C:/dev/DesignPatterns/Singleton/bin/Debug/netcoreapp1.1/Singleton.runtimeconfig.json
-C:/dev/DesignPatterns/Singleton/bin/Debug/netcoreapp1.1/Singleton.runtimeconfig.dev.json
-C:/dev/DesignPatterns/Singleton/bin/Debug/netcoreapp1.1/Singleton.dll
-C:/dev/DesignPatterns/Singleton/bin/Debug/netcoreapp1.1/Singleton.pdb
-C:/dev/DesignPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.AssemblyInfo.cs
-C:/dev/DesignPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.dll
-C:/dev/DesignPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.pdb
-C:/dev/DesignPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.csprojResolveAssemblyReference.cache
-C:/dev/DesignPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.csproj.CoreCompileInputs.cache
 /home/tom/git/designPatterns/Singleton/bin/Debug/netcoreapp1.1/Singleton.deps.json
 /home/tom/git/designPatterns/Singleton/bin/Debug/netcoreapp1.1/Singleton.runtimeconfig.json
 /home/tom/git/designPatterns/Singleton/bin/Debug/netcoreapp1.1/Singleton.runtimeconfig.dev.json
@@ -18,3 +8,13 @@ C:/dev/DesignPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.csproj.CoreCom
 /home/tom/git/designPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.AssemblyInfo.cs
 /home/tom/git/designPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.dll
 /home/tom/git/designPatterns/Singleton/obj/Debug/netcoreapp1.1/Singleton.pdb
+C:\dev\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.deps.json
+C:\dev\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.runtimeconfig.json
+C:\dev\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.runtimeconfig.dev.json
+C:\dev\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.dll
+C:\dev\DesignPatterns\Singleton\bin\Debug\netcoreapp1.1\Singleton.pdb
+C:\dev\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.csprojResolveAssemblyReference.cache
+C:\dev\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.csproj.CoreCompileInputs.cache
+C:\dev\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.AssemblyInfo.cs
+C:\dev\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.dll
+C:\dev\DesignPatterns\Singleton\obj\Debug\netcoreapp1.1\Singleton.pdb

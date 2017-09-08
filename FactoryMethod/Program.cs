@@ -1,5 +1,9 @@
 ﻿using System;
 
+//main difference between factory method and simple factory is that with factory method you have multiple factories. 
+//not just one. 
+//this allows you to have more control over the kinds of objects you create
+
 namespace FactoryMethod
 {
 	class MainClass
