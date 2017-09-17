@@ -10,28 +10,19 @@ namespace AbstractFactoryPluralSight
     {
         static void Main(string[] args)
         {
-            IAutoFactory factoryA = LoadFactory("bmw");
+            var factoryA = new AutoFactory("bmw");
             var carA = factoryA.CreateCar("basic");
             var sportsCarA = factoryA.CreateCar("sports");
             carA.Drive();
             sportsCarA.Drive();
 
-            IAutoFactory factoryB = LoadFactory("tesla");
+            var factoryB = new AutoFactory("tesla");
             var carB = factoryB.CreateCar("basic");
             var sportsCarB = factoryB.CreateCar("sports");
             carB.Drive();
             sportsCarB.Drive();
 
             Console.ReadKey();
-        }
-
-        static IAutoFactory LoadFactory(string factoryType)
-        {
-            if (factoryType == "bmw") return new BmwFactory();
-
-            if (factoryType == "tesla") return new TeslaFactory();
-
-            return null;
         }
     }
 }

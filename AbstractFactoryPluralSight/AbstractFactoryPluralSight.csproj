@@ -47,6 +47,7 @@
     <Compile Include="Autos\Bmw\BmwSports.cs" />
     <Compile Include="Autos\Tesla\TeslaSports.cs" />
     <Compile Include="Autos\Tesla\TeslaBasic.cs" />
+    <Compile Include="Factories\AutoFactory.cs" />
     <Compile Include="Factories\IAutoFactory.cs" />
     <Compile Include="Factories\BmwFactory.cs" />
     <Compile Include="Factories\TeslaFactory.cs" />

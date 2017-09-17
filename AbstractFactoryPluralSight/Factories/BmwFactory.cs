@@ -8,11 +8,14 @@ namespace AbstractFactoryPluralSight
 {
     public class BmwFactory : IAutoFactory
     {
-        public IAuto CreateCar(string model)
+        public IAuto CreateBasicCar()
         {
-            if (model == "basic") return new BmwBasic();
-            if (model == "sports") return new BmwSports();
-            return null; //could use null object pattern here
+            return new BmwBasic();
+        }
+
+        public IAuto CreateSportsCar()
+        {
+            return new BmwSports();
         }
     }
 }

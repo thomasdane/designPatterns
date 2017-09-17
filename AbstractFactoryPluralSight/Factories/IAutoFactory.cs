@@ -8,6 +8,8 @@ namespace AbstractFactoryPluralSight
 {
     public interface IAutoFactory
     {
-        IAuto CreateCar(string carType);
+        IAuto CreateBasicCar();
+        IAuto CreateSportsCar();
+
     }
 }
