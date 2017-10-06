@@ -1,0 +1,6 @@
+C:\dev\DesignPatterns\Factory\bin\Debug\Factory.exe.config
+C:\dev\DesignPatterns\Factory\bin\Debug\Factory.exe
+C:\dev\DesignPatterns\Factory\bin\Debug\Factory.pdb
+C:\dev\DesignPatterns\Factory\obj\Debug\Simple Factory.csproj.CoreCompileInputs.cache
+C:\dev\DesignPatterns\Factory\obj\Debug\Factory.exe
+C:\dev\DesignPatterns\Factory\obj\Debug\Factory.pdb

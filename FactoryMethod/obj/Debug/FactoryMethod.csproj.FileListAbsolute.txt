@@ -1,6 +1,5 @@
 C:\dev\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
 C:\dev\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
-C:\dev\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
 C:\dev\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
 C:\dev\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
 C:\dev\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

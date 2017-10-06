@@ -1,0 +1,6 @@
+C:\dev\DesignPatterns\AbstractFactoryPluralSight\bin\Debug\AbstractFactoryPluralSight.exe.config
+C:\dev\DesignPatterns\AbstractFactoryPluralSight\bin\Debug\AbstractFactoryPluralSight.exe
+C:\dev\DesignPatterns\AbstractFactoryPluralSight\bin\Debug\AbstractFactoryPluralSight.pdb
+C:\dev\DesignPatterns\AbstractFactoryPluralSight\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\dev\DesignPatterns\AbstractFactoryPluralSight\obj\Debug\AbstractFactoryPluralSight.exe
+C:\dev\DesignPatterns\AbstractFactoryPluralSight\obj\Debug\AbstractFactoryPluralSight.pdb

@@ -11,12 +11,13 @@ using System.Threading.Tasks;
 
 //Define an interface for object creation, but let subclass decide which class to instantiate
 
-
 //When to use: 
 
 //don't know ahead of time what object you need
 //centralise class selection code
 //encapsulate object creation
+
+//Todo: this is throwing an exception
 
 namespace Factory
 {

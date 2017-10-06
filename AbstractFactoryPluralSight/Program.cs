@@ -10,6 +10,24 @@ namespace AbstractFactoryPluralSight
     {
         static void Main(string[] args)
         {
+            //Why is it an abstract factory? 
+            //Because you create a factory (AutoFactory) that creates
+            //specific factories (BMWFactory)
+            //This is different from simple factory:
+            //where you call a method CreateCar('bmw')
+            //that returns a BMW
+            //Also different is factory method. 
+            //Here you have car factories (fordFactory, bmwFactory)
+            //That all share the CreateCar() method
+            //You can pass in settings as params, like fordFactory.CreateCar(red)
+            //How is factory method different from simple factory? 
+
+            //When you need lots of parameters, what happens with simple factory? 
+
+            //in simple factory, you only have one factory, CarFactory
+            //It has a CreateCar() method, that takes the type of car as input
+            // for example, carFactory.CreateCar("ford");
+
             var factoryA = new AutoFactory("bmw");
             var carA = factoryA.CreateCar("basic");
             var sportsCarA = factoryA.CreateCar("sports");
