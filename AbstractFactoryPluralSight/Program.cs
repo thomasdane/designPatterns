@@ -10,9 +10,6 @@ namespace AbstractFactoryPluralSight
     {
         static void Main(string[] args)
         {
-
-            //strategy, command, decorator. 
-            //template
             //Why is it an abstract factory? 
             //Because you create a factory (AutoFactory) that creates
             //specific factories (BMWFactory)
