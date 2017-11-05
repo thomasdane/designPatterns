@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -44,9 +44,23 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Commands\DecelerateVehicle.cs" />
+    <Compile Include="Commands\ICommand.cs" />
+    <Compile Include="Commands\TurnVehicleOn.cs" />
+    <Compile Include="Receivers\Boat.cs" />
+    <Compile Include="Receivers\Car.cs" />
+    <Compile Include="Receivers\IVehicle.cs" />
+    <Compile Include="Commands\AccelerateVehicle.cs" />
+    <Compile Include="Commands\TurnVehicleOff.cs" />
+    <Compile Include="Invokers\Invoker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Receivers\" />
+    <Folder Include="Invokers\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -23,6 +23,8 @@ namespace NullObject
             var car = carRepository.GetCarByName(name);
 
             car.Drive();
+
+            Console.ReadKey();
         }
     }
 }
