@@ -1,26 +1,26 @@
-﻿<Properties StartupConfiguration="{F8C77F2B-1374-4715-BD4E-09A32E89D520}|Default">
+﻿<Properties StartupConfiguration="{F8C77F2B-1374-4715-BD4E-09A32E89D520}|Default" StartupItem="NullObject/NullObject.csproj">
   <MonoDevelop.Ide.Workbench ActiveDocument="Command/Commands/AccelerateVehicle.cs">
     <Files>
-      <File FileName="Command/Program.cs" Line="39" Column="25" />
-      <File FileName="Command/Commands/TurnVehicleOn.cs" Line="4" Column="1" />
-      <File FileName="Command/Commands/AccelerateVehicle.cs" Line="16" Column="6" />
+      <File FileName="Command/Program.cs" Line="1" Column="1" />
+      <File FileName="Command/Commands/TurnVehicleOn.cs" Line="1" Column="1" />
+      <File FileName="Command/Commands/AccelerateVehicle.cs" Line="21" Column="6" />
       <File FileName="Command/Commands/DecelerateVehicle.cs" Line="1" Column="1" />
-      <File FileName="Command/Commands/TurnVehicleOff.cs" Line="19" Column="1" />
+      <File FileName="Command/Commands/TurnVehicleOff.cs" Line="1" Column="1" />
       <File FileName="Command/Invokers/Ignition.cs" Line="1" Column="1" />
-      <File FileName="Command/Invokers/Invoker.cs" Line="10" Column="32" />
-      <File FileName="Command/Commands/ICommand.cs" Line="6" Column="21" />
+      <File FileName="Command/Invokers/Invoker.cs" Line="1" Column="1" />
+      <File FileName="Command/Commands/ICommand.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Behavioural.NullObject PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Creational.Simple_220Factory PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
     <String>Singleton/Singleton.csproj</String>
     <String>AbstractFactoryPluralSight/AbstractFactory.csproj</String>
   </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Behavioural.NullObject PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

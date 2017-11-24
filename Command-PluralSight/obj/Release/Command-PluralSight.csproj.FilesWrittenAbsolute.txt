@@ -1,0 +1,5 @@
+/home/tom/git/designPatterns/Command-PluralSight/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/tom/git/designPatterns/Command-PluralSight/bin/Release/Command-PluralSight.pdb
+/home/tom/git/designPatterns/Command-PluralSight/bin/Release/Command-PluralSight.exe
+/home/tom/git/designPatterns/Command-PluralSight/obj/Release/Command-PluralSight.exe
+/home/tom/git/designPatterns/Command-PluralSight/obj/Release/Command-PluralSight.pdb

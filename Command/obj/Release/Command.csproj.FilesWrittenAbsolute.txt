@@ -1,0 +1,6 @@
+/home/tom/git/designPatterns/Command/obj/Release/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/tom/git/designPatterns/Command/bin/Release/Command.exe.config
+/home/tom/git/designPatterns/Command/bin/Release/Command.pdb
+/home/tom/git/designPatterns/Command/bin/Release/Command.exe
+/home/tom/git/designPatterns/Command/obj/Release/Command.exe
+/home/tom/git/designPatterns/Command/obj/Release/Command.pdb

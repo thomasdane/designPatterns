@@ -1,0 +1,6 @@
+/home/tom/git/designPatterns/NullObject/bin/Release/NullObject.exe.config
+/home/tom/git/designPatterns/NullObject/bin/Release/NullObject.exe
+/home/tom/git/designPatterns/NullObject/bin/Release/NullObject.pdb
+/home/tom/git/designPatterns/NullObject/obj/Release/NullObject.csproj.CoreCompileInputs.cache
+/home/tom/git/designPatterns/NullObject/obj/Release/NullObject.exe
+/home/tom/git/designPatterns/NullObject/obj/Release/NullObject.pdb

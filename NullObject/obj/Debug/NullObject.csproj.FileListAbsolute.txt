@@ -8,7 +8,6 @@ C:/dev/DesignPatterns/NullObject/obj/Debug/NullObject.csprojResolveAssemblyRefer
 /home/tom/git/designPatterns/NullObject/bin/Debug/NullObject.exe.config
 /home/tom/git/designPatterns/NullObject/bin/Debug/NullObject.exe
 /home/tom/git/designPatterns/NullObject/bin/Debug/NullObject.pdb
-/home/tom/git/designPatterns/NullObject/obj/Debug/NullObject.csprojResolveAssemblyReference.cache
 /home/tom/git/designPatterns/NullObject/obj/Debug/NullObject.csproj.CoreCompileInputs.cache
 /home/tom/git/designPatterns/NullObject/obj/Debug/NullObject.exe
 /home/tom/git/designPatterns/NullObject/obj/Debug/NullObject.pdb
