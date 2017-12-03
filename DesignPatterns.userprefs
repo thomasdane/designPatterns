@@ -1,14 +1,16 @@
-﻿<Properties StartupConfiguration="{F8C77F2B-1374-4715-BD4E-09A32E89D520}|Default" StartupItem="NullObject/NullObject.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Command/Commands/AccelerateVehicle.cs">
+﻿<Properties StartupConfiguration="{076AC92A-382C-462A-839A-F761A5EC96EB}|Default" StartupItem="Singleton/Singleton.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Command-PluralSight/Program.cs">
     <Files>
-      <File FileName="Command/Program.cs" Line="1" Column="1" />
-      <File FileName="Command/Commands/TurnVehicleOn.cs" Line="1" Column="1" />
-      <File FileName="Command/Commands/AccelerateVehicle.cs" Line="21" Column="6" />
-      <File FileName="Command/Commands/DecelerateVehicle.cs" Line="1" Column="1" />
-      <File FileName="Command/Commands/TurnVehicleOff.cs" Line="1" Column="1" />
-      <File FileName="Command/Invokers/Ignition.cs" Line="1" Column="1" />
+      <File FileName="Command-PluralSight/Commands/BuildApiCommand.cs" Line="1" Column="1" />
+      <File FileName="Command-PluralSight/Receivers/BackendDeveloper.cs" Line="1" Column="1" />
+      <File FileName="Command-PluralSight/Receivers/FrontendDeveloper.cs" Line="1" Column="1" />
+      <File FileName="Command-PluralSight/Commands/CallApiCommand.cs" Line="1" Column="1" />
       <File FileName="Command/Invokers/Invoker.cs" Line="1" Column="1" />
-      <File FileName="Command/Commands/ICommand.cs" Line="1" Column="1" />
+      <File FileName="Command/Program.cs" Line="1" Column="1" />
+      <File FileName="Command-PluralSight/Program.cs" Line="27" Column="1" />
+      <File FileName="Command-PluralSight/Invokers/ProjectManager.cs" Line="1" Column="1" />
+      <File FileName="Command-PluralSight/Commands/FixBugsCommand.cs" Line="1" Column="1" />
+      <File FileName="Command-PluralSight/Receivers/IDeveloper.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
@@ -16,11 +18,12 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Creational.Simple_220Factory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Behavioural.NullObject PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
     <String>Singleton/Singleton.csproj</String>
     <String>AbstractFactoryPluralSight/AbstractFactory.csproj</String>
   </DisabledProjects>
-  <MonoDevelop.Ide.ItemProperties.Behavioural.NullObject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Behavioural.Command-PluralSight PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
