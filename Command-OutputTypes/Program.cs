@@ -8,10 +8,19 @@ namespace CommandOutputTypes
 		{
 			var outputGenerator = new OutputGenerator ();
 			var results = new Results ();
+
 			var csvCommand = new OutputCsvCommand(results);
+			var jsonCommand = new OutputJsonCommand (results);
+
+			Console.WriteLine ("============== CSV ==================");
 
 			outputGenerator.ChooseOutputType(csvCommand);
-			outputGenerator.Generate ();
+			outputGenerator.Generate();
+
+			Console.WriteLine ("============== JSON =================");
+
+			outputGenerator.ChooseOutputType(jsonCommand);
+			outputGenerator.Generate();
 		}
 	}
 }

@@ -37,6 +37,7 @@
     <Compile Include="Commands\OutputCsvCommand.cs" />
     <Compile Include="Receivers\Results.cs" />
     <Compile Include="Invoker\OutputManager.cs" />
+    <Compile Include="Commands\OutputJsonCommand.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

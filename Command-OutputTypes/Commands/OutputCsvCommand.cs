@@ -22,8 +22,6 @@ namespace CommandOutputTypes
 			);
 
 			Console.WriteLine(csv);
-			System.IO.File.WriteAllText("~/Desktop", csv);
-
 		}
 	}
 }
