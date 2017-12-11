@@ -7061,6 +7061,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+        "http://nuget.episerver.com/feed/packages.svc/": {},
         "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
