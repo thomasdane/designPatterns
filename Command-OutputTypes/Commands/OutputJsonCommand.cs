@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using Newtonsoft.Json;
 
 namespace CommandOutputTypes
 {
@@ -16,9 +17,9 @@ namespace CommandOutputTypes
 		{
 			var results = _results.Generate();
 
-			var json = string.Format("{{{0}: {1}}}", results.Keys.First(), results.Values.First());
+            var json = JsonConvert.SerializeObject(results);
 
-			Console.WriteLine(json);
+			Console.WriteLine(foo);
 		}
 	}
 }
