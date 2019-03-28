@@ -1,5 +1,0 @@
-/home/tom/git/designPatterns/Command-OutputTypes/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/tom/git/designPatterns/Command-OutputTypes/bin/Release/Command-OutputTypes.pdb
-/home/tom/git/designPatterns/Command-OutputTypes/bin/Release/Command-OutputTypes.exe
-/home/tom/git/designPatterns/Command-OutputTypes/obj/Release/Command-OutputTypes.exe
-/home/tom/git/designPatterns/Command-OutputTypes/obj/Release/Command-OutputTypes.pdb

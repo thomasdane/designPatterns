@@ -1,7 +1,0 @@
-C:\dev\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-C:\dev\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
-C:\dev\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\dev\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
-C:\dev\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
-C:\dev\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
-C:\dev\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

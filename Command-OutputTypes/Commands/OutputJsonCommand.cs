@@ -19,7 +19,7 @@ namespace CommandOutputTypes
 
             var json = JsonConvert.SerializeObject(results);
 
-			Console.WriteLine(foo);
+			Console.WriteLine("foo");
 		}
 	}
 }

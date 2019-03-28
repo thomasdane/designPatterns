@@ -1,6 +1,0 @@
-C:\dev\DesignPatterns\Command-PluralSight\bin\Debug\Command-PluralSight.exe
-C:\dev\DesignPatterns\Command-PluralSight\bin\Debug\Command-PluralSight.pdb
-C:\dev\DesignPatterns\Command-PluralSight\obj\Debug\Command-PluralSight.csprojResolveAssemblyReference.cache
-C:\dev\DesignPatterns\Command-PluralSight\obj\Debug\Command-PluralSight.csproj.CoreCompileInputs.cache
-C:\dev\DesignPatterns\Command-PluralSight\obj\Debug\Command-PluralSight.exe
-C:\dev\DesignPatterns\Command-PluralSight\obj\Debug\Command-PluralSight.pdb

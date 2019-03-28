@@ -1,6 +1,0 @@
-/home/tom/git/designPatterns/NullObject/obj/Release/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
-/home/tom/git/designPatterns/NullObject/bin/Release/NullObject.exe.config
-/home/tom/git/designPatterns/NullObject/bin/Release/NullObject.pdb
-/home/tom/git/designPatterns/NullObject/bin/Release/NullObject.exe
-/home/tom/git/designPatterns/NullObject/obj/Release/NullObject.exe
-/home/tom/git/designPatterns/NullObject/obj/Release/NullObject.pdb

@@ -1,5 +1,0 @@
-/home/tom/git/designPatterns/FactoryMethod/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/tom/git/designPatterns/FactoryMethod/bin/Release/FactoryMethod.pdb
-/home/tom/git/designPatterns/FactoryMethod/bin/Release/FactoryMethod.exe
-/home/tom/git/designPatterns/FactoryMethod/obj/Release/FactoryMethod.exe
-/home/tom/git/designPatterns/FactoryMethod/obj/Release/FactoryMethod.pdb

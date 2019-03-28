@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command-OutputTypes", "Comm
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{F96E3015-8276-4072-8F2F-21C3926888C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{D60C48B5-5C39-42AE-9974-E8036F6A6CCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F8C77F2B-1374-4715-BD4E-09A32E89D520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8C77F2B-1374-4715-BD4E-09A32E89D520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8C77F2B-1374-4715-BD4E-09A32E89D520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60C48B5-5C39-42AE-9974-E8036F6A6CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60C48B5-5C39-42AE-9974-E8036F6A6CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60C48B5-5C39-42AE-9974-E8036F6A6CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60C48B5-5C39-42AE-9974-E8036F6A6CCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A8902EBF-94A2-4F25-8A0B-1C90E3770B14} = {0F469A6D-7D24-48DF-BAE8-823DC855DF54}

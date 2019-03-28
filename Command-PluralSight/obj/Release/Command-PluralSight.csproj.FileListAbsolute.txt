@@ -1,5 +1,0 @@
-/home/tom/git/designPatterns/Command-PluralSight/bin/Release/Command-PluralSight.exe
-/home/tom/git/designPatterns/Command-PluralSight/bin/Release/Command-PluralSight.pdb
-/home/tom/git/designPatterns/Command-PluralSight/obj/Release/Command-PluralSight.csproj.CoreCompileInputs.cache
-/home/tom/git/designPatterns/Command-PluralSight/obj/Release/Command-PluralSight.exe
-/home/tom/git/designPatterns/Command-PluralSight/obj/Release/Command-PluralSight.pdb

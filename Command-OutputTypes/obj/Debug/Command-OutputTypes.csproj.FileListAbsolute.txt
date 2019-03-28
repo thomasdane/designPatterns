@@ -1,8 +1,0 @@
-C:\dev\DesignPatterns\Command-OutputTypes\bin\Debug\Command-OutputTypes.exe
-C:\dev\DesignPatterns\Command-OutputTypes\bin\Debug\Command-OutputTypes.pdb
-C:\dev\DesignPatterns\Command-OutputTypes\obj\Debug\Command-OutputTypes.csprojResolveAssemblyReference.cache
-C:\dev\DesignPatterns\Command-OutputTypes\obj\Debug\Command-OutputTypes.csproj.CoreCompileInputs.cache
-C:\dev\DesignPatterns\Command-OutputTypes\obj\Debug\Command-OutputTypes.exe
-C:\dev\DesignPatterns\Command-OutputTypes\obj\Debug\Command-OutputTypes.pdb
-C:\dev\DesignPatterns\Command-OutputTypes\bin\Debug\Newtonsoft.Json.dll
-C:\dev\DesignPatterns\Command-OutputTypes\bin\Debug\Newtonsoft.Json.xml
